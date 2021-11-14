@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "prettier": "^2.4.1",
+    "tslint-config-prettier": "^1.18.0"
+  },
+  "prettier": {
+    "printWidth": 80,
+    "useTabs": false,
+    "tabWidth": 2,
+    "bracketSpacing": true,
+    "semi": true,
+    "singleQuote": false
+  }
+}
