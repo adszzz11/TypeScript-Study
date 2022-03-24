@@ -1,6 +1,6 @@
 # TypeScript Study
 
-TypeScript를 이용한 Web-Site 설계
+TypeScript를 이용한 Web-Site 설계 (의사결정 연기로 인한 중단)
 
 <hr>
 ## 예정사항<br>
